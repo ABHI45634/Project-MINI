@@ -1,0 +1,8 @@
+{
+  "name": "MailMuse - AI Copilot for Internship Applications",
+  "description": "Intelligent internship copilot for B.Tech students & graduates: resume intelligence, smart match score, skill gap analyzer, personalized application writer, tracker & follow-up guardian.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}

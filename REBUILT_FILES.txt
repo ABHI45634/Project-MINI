@@ -1,0 +1,15 @@
+Files written from scratch (NOT the original code). They match the props used by
+src/App.tsx and the behaviour described in the README, but are simpler:
+
+src/data/demoData.ts
+src/services/aiService.ts
+src/services/matchingService.ts
+src/services/applicationService.ts
+src/components/*.tsx (all 12 components)
+
+Original files kept as uploaded (only renamed/fixed where noted):
+src/App.tsx, src/main.tsx, src/index.css, src/types.ts
+package.json: removed the esbuild devDependency (caused an install conflict).
+vite.config.ts: renamed from vite_config.ts.
+
+If you have your original versions of the rebuilt files, replace the ones here with them.
